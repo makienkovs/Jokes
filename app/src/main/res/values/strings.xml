@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="title_joke">Jokes</string>
+    <string name="title_web">Web</string>
+    <string name="count">Count</string>
+    <string name="reload">Reload</string>
+    <string name="enterValidCount">Enter a valid count of jokes</string>
+    <string name="jokesDownloaded">Jokes downloaded</string>
+    <string name="error">Error occurred downloading</string>
+    <string name="url">http://www.icndb.com/api/</string>
+</resources>
